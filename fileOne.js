@@ -6,6 +6,8 @@ const initialFunction = () => {
 
 const branchOne = () => {
   console.log('This is the first branch one commit');
+
+  console.log('Fix branch made an update in branchOn');
 };
 
 const branchTwoFunction = () => {

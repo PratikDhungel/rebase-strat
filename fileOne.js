@@ -7,3 +7,7 @@ const initialFunction = () => {
 const branchOne = () => {
   console.log('This is the first branch one commit');
 };
+
+const branchTwoFunction = () => {
+  console.log('Commit in branch two on same line as branch one');
+};

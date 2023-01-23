@@ -8,6 +8,7 @@ const branchOne = () => {
   console.log('Fix branch made an update in branchOne');
   console.log('Feature branch is adding a new feature in branchOneFunction');
   console.log('Fix branch is updating in branchOneFunction part 2');
+  console.log('Feature in branchOne function part 2');
 };
 
 const branchTwoFunction = () => {
@@ -16,6 +17,7 @@ const branchTwoFunction = () => {
   console.log('Fix branch made an update in branchTwo with new commit');
   console.log('Feature branch is adding a new feature in branchTwoFunction');
   console.log('Fix branch is updating in branchTwoFunction part 2');
+  console.log('Feature in branchTwo function part 2');
 };
 
 const featBranchFunction = () => {

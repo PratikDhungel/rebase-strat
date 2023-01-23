@@ -1,7 +1,5 @@
 const initialFunction = () => {
   console.log('This is the initial function');
-
-  const randomArray = [1, 2, 3, 4, 5];
 };
 
 const branchOne = () => {
@@ -22,4 +20,8 @@ const branchTwoFunction = () => {
 =======
   console.log('Feature branch is adding a new feature in branchTwoFunction');
 >>>>>>> Feature branch 1
+};
+
+const featBranchFunction = () => {
+  console.log('Function added by feature branch');
 };
